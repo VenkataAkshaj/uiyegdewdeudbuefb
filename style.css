@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    
+    text-align: center;
+}
+
+.profile {
+    width: 340px;
+    height: 400px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+ 
+
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: inherit;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: "Cinzel Decorative";
+}
+
+
+
+
+
+.links:hover {
+    background-color: beige;
+}
+
+#videos {
+    background-color: aquamarine;
+    padding: 180px;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+#welcome{
+    background-image: linear-gradient(to bottom right,red,yellow);
+}
